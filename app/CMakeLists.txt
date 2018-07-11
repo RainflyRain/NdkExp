@@ -21,6 +21,7 @@ add_library( # Sets the name of the library.
              src/main/cpp/StringDemo.cpp
              src/main/cpp/VectorDemo.cpp
              src/main/cpp/MapDemo.cpp
+             src/main/cpp/ClassDemo.cpp
              src/main/cpp/Demo.cpp
              )
 

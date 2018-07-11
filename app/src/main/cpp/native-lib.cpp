@@ -14,6 +14,7 @@ Java_com_friean_ndkexp_MainActivity_stringFromJNI(
     demo->StringTest();
     demo->VectorTest();
     demo->MapTest();
+    demo->ClassTest();
 
     return env->NewStringUTF(hello.c_str());
 }
